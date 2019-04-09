@@ -65,7 +65,7 @@ export default class Header extends PureComponent {
                   className="user-avatar"
                 />
                 <div className="user-profile">
-                  <span className="user-name">淘小宝</span>
+                  <span className="user-name">天天学</span>
                   <br />
                   <span className="user-department">技术部</span>
                 </div>
