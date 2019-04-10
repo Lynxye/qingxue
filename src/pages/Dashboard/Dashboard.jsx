@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Guide from '../../components/Guide';
+import DataAnalysis from './components/DataAnalysis';
 
 import './Dashboard.scss';
 
@@ -14,7 +14,7 @@ export default class Dashboard extends Component {
   render() {
     return (
       <div className="dashboard-page">
-        <Guide />
+        <DataAnalysis />
       </div>
     );
   }

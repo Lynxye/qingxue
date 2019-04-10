@@ -13,14 +13,14 @@ export default class Footer extends PureComponent {
             <Logo />
           </div>
           <div className="copyright">
-            © 2018 Theme designed by{' '}
+            © 2019 All Rights Reserved by {' '}
             <a
-              href="https://github.com/alibaba/ice"
+              href="http://www.ronghui.com.cn"
               target="_blank"
               className="copyright-link"
               rel="noopener noreferrer"
             >
-              ICE
+              Ronghui
             </a>
           </div>
         </div>
